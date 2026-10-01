@@ -1,0 +1,6 @@
+{
+  "name": "AA Professional Salon — Luxury Beauty & Makeover Studio",
+  "description": "Premium luxury beauty, bridal artistry, hair transformations, nails, cosmetology, and mehendi studio in Ranchi and Hazaribagh, Jharkhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
