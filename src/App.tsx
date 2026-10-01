@@ -145,9 +145,9 @@ export default function App() {
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Direct WhatsApp Concierge"
-        className="fixed bottom-6 left-6 z-40 w-12 h-12 rounded-full bg-[#25D366] text-white shadow-xl hover:scale-110 transition-transform flex items-center justify-center cursor-pointer hover:bg-[#20ba59]"
+        className="fixed bottom-6 right-6 z-40 w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-[#25D366] text-white shadow-xl hover:scale-110 transition-transform flex items-center justify-center cursor-pointer hover:bg-[#20ba59]"
       >
-        <MessageCircle className="w-6 h-6" />
+        <MessageCircle className="w-6 h-6 sm:w-7 sm:h-7" />
       </a>
 
       {/* Complete Rate Card Modal */}
